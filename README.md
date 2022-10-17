@@ -7,7 +7,9 @@ For this project, I chose to form a dataset for the Top 64 movies of all time ac
 While doing this project, I used the following libraries:
 
 -Pandas
+
 -BeautifulSoup
+
 -request
 
 # Where I got the data
